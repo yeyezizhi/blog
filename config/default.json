@@ -1,0 +1,11 @@
+{
+  "PORT": 9000,
+  "JWT_SECRET": "",
+  "MONGO": {
+    "URI": "mongodb://localhost:27017/blog",
+    "OPTIONS": {
+      "useNewUrlParser": true,
+      "useCreateIndex": true
+    }
+  }
+}

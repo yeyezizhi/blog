@@ -1,0 +1,9 @@
+{
+  "AUTH": {
+    "TYPE": {
+      "USERNAME": 1,
+      "EMAIL": 2,
+      "PHONE": 3
+    }
+  }
+}

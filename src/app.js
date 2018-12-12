@@ -11,7 +11,7 @@ const app = new Koa();
 
 app.use(bodyParser());
 
-// app.use(jwt({ secret: config.get('JWT_SECRET') }))
+// app.use(jwt({ secret: config.get('JWT.SECRET') }))
 
 app.use(router.routes())
 

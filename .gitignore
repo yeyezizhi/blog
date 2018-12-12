@@ -78,5 +78,5 @@ typings/
 #DynamoDB Local files 
 .dynamodb/
 
-config/develop.json
+config/development.json
 config/production.json
